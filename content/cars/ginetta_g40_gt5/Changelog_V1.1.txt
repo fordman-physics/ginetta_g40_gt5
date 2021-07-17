@@ -1,0 +1,4 @@
+Corrected Error in Tyres.ini
+Corrected Tyre Temps
+Adjusted wing values slightly
+Adjusted starting Tyre Pressure's
